@@ -1,0 +1,32 @@
+li {
+  color: green;
+  border: 2px dashed white;
+}
+
+h1 {
+  font-size: 50px;
+  background-color: red;
+  border-color: yellow;
+  border-width: 8px;
+  border-style: dashed;
+  
+}
+
+body {
+  background-image: url("	https://www.petz.com.br/blog/wp-content/uploads/2022/06/como-cuidar-de-um-pato-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+} 
+
+.moon {
+  color: yellow;
+}
+
+#tebe {
+  font-size: 10px;
+  color: blue;
+}
+
+* {
+  border: 2px solid;
+}
